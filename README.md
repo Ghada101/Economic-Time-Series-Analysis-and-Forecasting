@@ -1,10 +1,5 @@
 # \# 📊 Time Series Forecasting Project
-
-# 
-
-# This project focuses on forecasting economic indicators using time series analysis techniques in R. Two datasets representing real-world economic trends were analyzed to uncover temporal patterns and predict future values using statistical modeling.
-
-# 
+This project focuses on forecasting economic indicators using time series analysis techniques in R. Two datasets representing real-world economic trends were analyzed to uncover temporal patterns and predict future values using statistical modeling.
 
 # \## 🔍 Project Objectives
 
